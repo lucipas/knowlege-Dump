@@ -1,14 +1,15 @@
 ### Shay Howe
 [[Lesson 1 - Building Your First Web Page]]
 [[Lesson 2 - Getting to Know HTML]]
-### Leon Streams
+### 100Devs stream
+[[100 Devs Class 1 - Cohort 2]]
 
 ### Other Reading
 
 ### Templates
 [[Outside Reading]]
-[[Leon Stream {{date}}]]
-[[Lesson X - Shay Howe reading]]
+[[100 Devs Stream]]
+[[Shay Howe]]
 
 ### Resources
 [Wireframe.cc](https://wireframe.cc/) 

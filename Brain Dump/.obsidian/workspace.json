@@ -13,14 +13,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Lesson 2 - Getting to Know HTML.md",
+                "file": "Notes/Lesson 1 - Building Your First Web Page.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd3718ec82f2c826",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Lesson 1 - Building Your First Web Page.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "45cb277d60bd4c0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Coursera Learning How To Learn/Module 1 What is Learning.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -70,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d2df59f6d5e697d0",
@@ -87,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Lesson 2 - Getting to Know HTML.md",
+                "file": "Notes/Coursera Learning How To Learn/Module 1 What is Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Lesson 2 - Getting to Know HTML.md",
+                "file": "Notes/Coursera Learning How To Learn/Module 1 What is Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Lesson 2 - Getting to Know HTML.md"
+                "file": "Notes/Coursera Learning How To Learn/Module 1 What is Learning.md"
               }
             }
           }
@@ -149,21 +175,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f44001db21f7f791",
+  "active": "45cb277d60bd4c0f",
   "lastOpenFiles": [
-    "Notes/Lesson 1 - Building Your First Web Page.md",
     "Notes/Lesson 2 - Getting to Know HTML.md",
+    "Notes/Lesson 1 - Building Your First Web Page.md",
+    "Notes/Coursera Learning How To Learn/Module 1 What is Learning.md",
+    "Notes/100 Devs Class 1 - Cohort 2.md",
+    "Notes/Coursera Learning How To Learn",
+    "Img/Trough Of Sorrow.jpg",
+    "Img",
     "TOC.md",
-    "Quick Notes.md",
-    "Templates/Lesson X - Shay Howe reading.md",
-    "Templates/Leon Stream {{date}}.md",
+    "git.md",
     "Templates/Outside Reading.md",
+    "Templates/Shay Howe.md",
+    "Templates/100 Devs Stream.md",
+    "Untitled.md",
+    "Untitled.canvas",
+    "Quick Notes.md",
     "example.com.md",
     "().md",
     "[Building.md",
     "Untitled 1",
     "Templates",
-    "Untitled.canvas",
     "test.html",
     "2024-07-23.md",
     "Notes"
