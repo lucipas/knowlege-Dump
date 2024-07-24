@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "9164c16b578b6a65",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c84f2d1ecc76281",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc0227cddbd99c9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Lesson 2 - Getting to Know HTML.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "64f26b9af5adedde",
+    "type": "split",
+    "children": [
+      {
+        "id": "851ae955d4f5645f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bf77f9ff5c0f064",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c0724a43b71b6d5d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "83525822b0a9579b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "d2df59f6d5e697d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "d619ab0c1f4dcf8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "382bc1bfe0d62c0e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/Lesson 2 - Getting to Know HTML.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "11f2ba056707d347",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes/Lesson 2 - Getting to Know HTML.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b5bded34c61b56fd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f44001db21f7f791",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes/Lesson 2 - Getting to Know HTML.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "382bc1bfe0d62c0e",
+  "lastOpenFiles": [
+    "Notes/Lesson 1 - Building Your First Web Page.md",
+    "Notes/Lesson 2 - Getting to Know HTML.md",
+    "TOC.md",
+    "Quick Notes.md",
+    "Templates/Lesson X - Shay Howe reading.md",
+    "Templates/Leon Stream {{date}}.md",
+    "Templates/Outside Reading.md",
+    "example.com.md",
+    "().md",
+    "[Building.md",
+    "Untitled 1",
+    "Templates",
+    "Untitled.canvas",
+    "test.html",
+    "2024-07-23.md",
+    "Notes"
+  ]
+}
