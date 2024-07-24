@@ -131,7 +131,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -148,7 +149,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "382bc1bfe0d62c0e",
+  "active": "f44001db21f7f791",
   "lastOpenFiles": [
     "Notes/Lesson 1 - Building Your First Web Page.md",
     "Notes/Lesson 2 - Getting to Know HTML.md",
